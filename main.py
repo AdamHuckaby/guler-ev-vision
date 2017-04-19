@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 28 20:21:53 2017
-
-@author: trave
-"""
-
-
 import cv2
 import os
 
