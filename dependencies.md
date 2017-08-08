@@ -77,11 +77,11 @@ We will reference this document: https://conda.io/docs/using/envs.html#create-an
 
 Windows users will run these commands in the Anaconda Prompt. The only difference is Windows users will ignore the `source` command when acitvating and deactivating virtual environments.
 
-To create an environment: `conda create --name guler python=3.5`
-To activate the environment: `activate guler`
-To deactivate the environment: `deactivate guler`
-To list environments: `conda info --envs`
-To remove an environment: `conda remove --name guler --all`
+To create an environment: `conda create --name guler python=3.5`  
+To activate the environment: `activate guler`  
+To deactivate the environment: `deactivate guler`  
+To list environments: `conda info --envs`  
+To remove an environment: `conda remove --name guler --all`  
 
 After activating the environment, the command line will be prepended by `(guler) ` and the `$PATH` variable will be modified to point to `anaconda3/envs/guler/bin`. 
 
